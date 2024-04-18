@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+content-type: application/json
+authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QyQGV4YW1wbGUuY29tIiwiZXhwIjoxNzEzNDcyOTU0LCJ1c2VySWQiOjJ9.x61Nxnm_l8w-Fnx4XPVrXZFn-UVvBbvCizLyyRKSYpk
+
+{
+  "name": "Play Screw four",
+  "description": "Draw is Losing",
+  "Location": "Nasr City",
+  "DateTime": "2024-04-16T12:48:00.000Z"
+}

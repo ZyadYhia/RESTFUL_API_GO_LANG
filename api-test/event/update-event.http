@@ -1,0 +1,9 @@
+PUT http://localhost:8080/events/2
+content-type: application/json
+
+{
+  "name": "Play Screw two update",
+  "description": "Draw is Losing",
+  "Location": "345, Nasr City",
+  "DateTime": "2024-04-15T23:04:00.000Z"
+}
